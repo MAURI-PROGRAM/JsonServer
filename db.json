@@ -1,17 +1,19 @@
   
 {
-  "posts": [
-    { "id": 1, "cedula": "0940975548" },
-    { "id": 2, "cedula": "0940975448" }    
+  "profile": [
+    { "id": 1, "cedula": "0940975548", "nombres": "Fulano Sultano", "apellidos": "Rodriguez Arcos", "celular": "0999999999", "correo": "fulano.s@localhost.com" },
+    { "id": 2, "cedula": "0940975448", "nombres": "Pepito Juan", "apellidos": "Rodriguez Alvarez", "celular": "0999999999", "correo": "pepito.j@localhost.com" }    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],  
-  "postsExample": [
-    { "Id": 1, "Title": "Post 1" },
-    { "Id": 2, "Title": "Post 2" },
-    { "Id": 3, "Title": "Post 3" }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ]
 }
+
+
 
