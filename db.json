@@ -6,7 +6,7 @@
   ],
   "user": [
     { "id": 1, "usuario": "user1", "clave": "1234" },
-    { "id": 2, "usuario": "user2", "postId": "1234" }
+    { "id": 2, "usuario": "user2", "clave": "1234" }
   ]
 }
 
