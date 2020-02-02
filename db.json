@@ -9,7 +9,15 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+     "Id":"0",
+     "Cedula": "0940975548",
+     "Nombres":"Fulano Sultano",
+     "Apellidos":"Rodriguez Arcos",
+     "Celular":"0999999999",
+     "Correo":"fulano.s@localhost.com"
+    }
+  ]
 }
+
