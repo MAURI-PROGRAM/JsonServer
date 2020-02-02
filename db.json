@@ -9,9 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],  
   "postsExample": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "Id": 1, "Title": "Post 1" },
+    { "Id": 2, "Title": "Post 2" },
+    { "Id": 3, "Title": "Post 3" }
   ]
 }
 
