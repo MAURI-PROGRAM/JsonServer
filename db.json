@@ -4,14 +4,9 @@
     { "id": 1, "cedula": "0940975548", "nombres": "Fulano Sultano", "apellidos": "Rodriguez Arcos", "celular": "0999999999", "correo": "fulano.s@localhost.com" },
     { "id": 2, "cedula": "0940975448", "nombres": "Pepito Juan", "apellidos": "Rodriguez Alvarez", "celular": "0999999999", "correo": "pepito.j@localhost.com" }    
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],  
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "user": [
+    { "id": 1, "usuario": "user1", "clave": "1234" },
+    { "id": 2, "usuario": "user2", "postId": "1234" }
   ]
 }
 
