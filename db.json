@@ -1,8 +1,8 @@
   
 {
   "profile": [
-    { "id": 1, "cedula": "0940975548", "nombres": "Fulano Sultano", "apellidos": "Rodriguez Arcos", "celular": "0999999999", "correo": "fulano.s@localhost.com" },
-    { "id": 2, "cedula": "0940975448", "nombres": "Pepito Juan", "apellidos": "Rodriguez Alvarez", "celular": "0999999999", "correo": "pepito.j@localhost.com" }    
+    { "id": 1, "cedula": "0940975548", "nombres": "Fulano Sultano", "apellidos": "Rodriguez Arcos", "celular": "0999999999", "correo": "azure@dominiocontosodirect.onmicrosoft.com" },
+    { "id": 2, "cedula": "0940975448", "nombres": "Pepito Juan", "apellidos": "Rodriguez Alvarez", "celular": "0999999999", "correo": "test@dominiocontosodirect.onmicrosoft.com" }    
   ],
   "user": [
     { "id": 1, "usuario": "user1", "clave": "1234" },
