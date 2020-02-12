@@ -1,14 +1,9 @@
   
 {
   "profile": [
-    { "id": 1, "cedula": "0940975548", "nombres": "Fulano Sultano", "apellidos": "Rodriguez Arcos", "celular": "0999999999", "correo": "azure@dominiocontosodirect.onmicrosoft.com" },
-    { "id": 2, "cedula": "0940975448", "nombres": "Pepito Juan", "apellidos": "Rodriguez Alvarez", "celular": "0999999999", "correo": "test@dominiocontosodirect.onmicrosoft.com" }    
-  ],
-  "user": [
-    { "id": 1, "usuario": "user1", "clave": "1234" },
-    { "id": 2, "usuario": "user2", "clave": "1234" }
+    { "Id": 1, "Cedula": "0940975548","Usuario":"Miusuario","Clave":"Miusuario", "Nombres": "David", "Apellidos": "Ortega", "Celular": "0999999999", "Correo": "azure@dominiocontosodirect.onmicrosoft.com","FotoB64" },
+    { "Id": 2, "Cedula": "0940975548","Usuario":"Miusuario","Clave":"Miusuario", "Nombres": "michael", "Apellidos": "Merchan", "Celular": "0999999999", "Correo": "azure@dominiocontosodirect.onmicrosoft.com","FotoB64" },
+    { "Id": 2, "Cedula": "0940975548","Usuario":"Miusuario","Clave":"Miusuario", "Nombres": "Victor", "Apellidos": "Donoso", "Celular": "0999999999", "Correo": "azure@dominiocontosodirect.onmicrosoft.com","FotoB64" },  
   ]
 }
-
-
 
